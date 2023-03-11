@@ -1,7 +1,7 @@
-const x = 5;
-const y = 10;
-let z = x + y;
-console.log(z);
-console.log(typeof x);
-console.log(typeof y);
-console.log(typeof z);  
+const X = 5;
+const Y = 10;
+const Z = X + Y;
+console.log(Z);
+console.log(typeof X);
+console.log(typeof Y);
+console.log(typeof Z);  

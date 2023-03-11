@@ -1,10 +1,9 @@
-
-const FirstName = "John";
-const LastName = "Doe";
-const age = 35;
-console.log(FirstName);
-console.log(typeof FirstName);
-console.log(LastName);
-console.log(typeof LastName);
-console.log(age);
-console.log(typeof age);
+const FIRSTNAME = "John";
+const LASTNAME = "Doe";
+const AGE = 35;
+console.log(FIRSTNAME);
+console.log(typeof FIRSTNAME);
+console.log(LASTNAME);
+console.log(typeof LASTNAME);
+console.log(AGE);
+console.log(typeof AGE);
