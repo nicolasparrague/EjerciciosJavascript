@@ -1,4 +1,4 @@
-const carName = "Volvo" ;
+const carName="Volvo";
 console.log(carName);
-console.log (typeof carName);
+console.log(typeof carName);
 
