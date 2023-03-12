@@ -1,4 +1,4 @@
-const CARNAME= "Volvo";
+const CARNAME = "Volvo";
 console.log(CARNAME);
 console.log(typeof CARNAME);
 
