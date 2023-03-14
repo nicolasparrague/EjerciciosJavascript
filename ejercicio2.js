@@ -1,3 +1,3 @@
-const x = 50
-console.log (x);
-console.log (typeof x);
+const X = 50;
+console.log(X);
+console.log(typeof X);
