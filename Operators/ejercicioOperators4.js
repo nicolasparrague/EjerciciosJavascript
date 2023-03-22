@@ -1,5 +1,5 @@
 let X = 10;
-console.log(typeof X);
+console.log(X);
 const Y = 5;
 X += Y;
 console.log(X);
